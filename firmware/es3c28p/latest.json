@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.15",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.15.bin",
-  "size": 1378640,
-  "sha256": "104f31d9fc7451e49a8c39c6cd4fce883165088f10773fbce66aef052f44952a",
+  "version": "1.0.16",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.16.bin",
+  "size": 1381472,
+  "sha256": "d0e3b8824c594270b1e183b57386305c2eab9842ffb6b040191957ee1bd8e653",
   "notes": "v1.0.15: Larger 64x64 TC RADIOS station logos, improved station-name and song metadata layout; existing player features preserved."
 }
