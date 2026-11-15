@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.13",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.13.bin",
+  "version": "1.0.14",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.14.bin",
   "size": 1378640,
-  "sha256": "30b57c8dcbf56cae2fe3b5423500bb9c29e54d552dd03dae2b8f3d9ac616f44b",
-  "notes": "v1.0.13: Refined 320x240 TC RADIOS and Tamil Bible player layouts with volume bars and cleaner controls; automatic update notification retained."
+  "sha256": "7657add0dd40a79880982a972487b79f4fcd96bfabc0fa5d04873200d91fbf82",
+  "notes": "v1.0.14 OTA test: Verify automatic update notification and installation confirmation. No player feature changes."
 }
