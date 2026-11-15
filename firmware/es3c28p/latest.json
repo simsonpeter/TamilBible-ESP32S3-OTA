@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.17",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.17.bin",
-  "size": 1381824,
-  "sha256": "10c293f487fbd2db8279f15ed6112c021f1d4b94febf923feec7ee3afe23c148",
-  "notes": "v1.0.17: Fix rotary encoder volume redraw so Radio and Tamil Bible volume bars remain visible and update correctly."
+  "version": "1.0.18",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.18.bin",
+  "size": 1381056,
+  "sha256": "48e5672eef7ad1aebd7de3800b153b00c53f288721e5c19ef067713a16cf4437",
+  "notes": "v1.0.18: Share volume bar drawing between rotary and touch controls on Radio and Tamil Bible; remove Bible LOAD header button."
 }
