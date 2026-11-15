@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.18",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.18.bin",
-  "size": 1381056,
-  "sha256": "48e5672eef7ad1aebd7de3800b153b00c53f288721e5c19ef067713a16cf4437",
-  "notes": "v1.0.18: Share volume bar drawing between rotary and touch controls on Radio and Tamil Bible; remove Bible LOAD header button."
+  "version": "1.0.19",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.19.bin",
+  "size": 1381136,
+  "sha256": "7f85bb4c81303e405c02b8c95adb9ce697a36022752bd0a29395b2a26cee87da",
+  "notes": "v1.0.19: Compact player titles, remove custom Wi-Fi glyph, circular original station artwork with slow rotation during radio playback."
 }
