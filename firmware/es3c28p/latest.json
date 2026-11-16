@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.22",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.22.bin",
+  "version": "1.0.23",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.23.bin",
   "size": 1358096,
-  "sha256": "54804b70ecab4a901e5b73c44ad6d9f8a3a81d677facbaf7600ace4346de7988",
+  "sha256": "e2627d269dd2f29628052e7dc2dc1778d60c7dc99b10f07d27a46b2338d5fee1",
   "notes": "TC RADIOS v1.0.22: Tamil Christian podcast catalogue browser and direct episode playback."
 }
