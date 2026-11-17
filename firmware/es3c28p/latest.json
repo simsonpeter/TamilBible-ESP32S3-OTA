@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.23",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.23.bin",
-  "size": 1363664,
-  "sha256": "d4b06117398b2fe8ef22011c018008f1d6d970863f4f7f00865c65681f871d3c",
-  "notes": "TC RADIOS v1.0.22: Tamil Christian podcast catalogue browser and direct episode playback."
+  "version": "1.0.24",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.24.bin",
+  "size": 1363760,
+  "sha256": "735b8c2888ee2fb6e42fa0b0b4a7876dd458a1fe11d3416cf25055c905706207",
+  "notes": "TC RADIOS v1.0.24: six touchscreen arcade games including 2048 and Tic Tac Toe."
 }
