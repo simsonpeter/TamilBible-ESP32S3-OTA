@@ -1,0 +1,10 @@
+
+{
+  "version": 1,
+  "tracks": [
+    {
+      "title": "My First Song",
+      "url": "https://example.com/song.mp3"
+    }
+  ]
+}
