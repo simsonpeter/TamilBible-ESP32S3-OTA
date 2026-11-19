@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.24",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.24.bin",
-  "size": 1363760,
-  "sha256": "735b8c2888ee2fb6e42fa0b0b4a7876dd458a1fe11d3416cf25055c905706207",
-  "notes": "TC RADIOS v1.0.24: six touchscreen arcade games including 2048 and Tic Tac Toe."
+  "version": "1.0.25",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.25.bin",
+  "size": 1377504,
+  "sha256": "8c0a97bc41a4baf133833906500db5ffdce91cddadb5fb447f2bfcb437bef717",
+  "notes": "v1.0.19: Compact player titles, remove custom Wi-Fi glyph, circular original station artwork with slow rotation during radio playback."
 }
