@@ -1,8 +1,8 @@
 {
   "board": "ES3C28P",
-  "version": "1.0.34",
-  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.34.bin",
-  "size": 1420208,
-  "sha256": "94a6ce2f2977738a9ac6d1fd9201275750ea7baddad87badb361aefcc45a8d8a",
+  "version": "1.0.35",
+  "url": "https://raw.githubusercontent.com/simsonpeter/TamilBible-ESP32S3-OTA/main/firmware/es3c28p/TC_RADIOS_ES3C28P_v1.0.35.bin",
+  "size": 1423296,
+  "sha256": "ab0799d42053596668da0efb2405d184b39195f662b7e7854b213554b3e4a396",
   "notes": "v1.0.19: Compact player titles, remove custom Wi-Fi glyph, circular original station artwork with slow rotation during radio playback."
 }
